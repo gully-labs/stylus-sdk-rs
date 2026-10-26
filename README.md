@@ -1,18 +1,18 @@
 <!-- gully-header:start -->
-<a href="https://gullylabs.xyz/chain-kit"><img src="https://gullylabs.xyz/brand/repos/stylus-sdk-rs.svg" alt="Gully Labs · Gully Chains · Stylus" width="100%"></a>
+<a href="https://gullychain.xyz"><img src="https://gullychain.xyz/brand/gully-labs/stylus-sdk-rs.svg" alt="Gully Labs · Chain Kit: Stylus SDK" width="100%"></a>
 
 <p align="center">
-  <a href="https://gullylabs.xyz"><img src="https://img.shields.io/badge/gullylabs.xyz-E8C060?style=for-the-badge&labelColor=0B0E13&logo=googlechrome&logoColor=E8C060" alt="Website"></a>
-  <a href="https://x.com/Gully_Labs"><img src="https://img.shields.io/badge/@Gully__Labs-0B0E13?style=for-the-badge&labelColor=0B0E13&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://t.me/GullyLabsNews"><img src="https://img.shields.io/badge/Telegram-0B0E13?style=for-the-badge&labelColor=0B0E13&logo=telegram&logoColor=26A5E4" alt="Telegram"></a>
-  <a href="https://docs.gullylabs.xyz"><img src="https://img.shields.io/badge/Docs-0B0E13?style=for-the-badge&labelColor=0B0E13&logo=readthedocs&logoColor=E8C060" alt="Docs"></a>
-  <a href="https://gullylabs.xyz/chain-kit"><img src="https://img.shields.io/badge/Gully_Chains-0B0E13?style=for-the-badge&labelColor=0B0E13&logo=ethereum&logoColor=E8C060" alt="Gully Chains"></a>
-  <a href="https://github.com/gully-labs"><img src="https://img.shields.io/badge/GitHub-0B0E13?style=for-the-badge&labelColor=0B0E13&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://gullylabs.xyz"><img src="https://img.shields.io/badge/gullylabs.xyz-00D2FF?style=for-the-badge&labelColor=06050D&logo=googlechrome&logoColor=06050D" alt="Website"></a>
+  <a href="https://gullychain.xyz"><img src="https://img.shields.io/badge/gullychain.xyz-0B0A16?style=for-the-badge&labelColor=06050D&logo=googlechrome&logoColor=00D2FF" alt="Gully Chain"></a>
+  <a href="https://docs.gullylabs.xyz"><img src="https://img.shields.io/badge/Docs-0B0A16?style=for-the-badge&labelColor=06050D&logo=readthedocs&logoColor=00D2FF" alt="Docs"></a>
+  <a href="https://x.com/Gully_Labs"><img src="https://img.shields.io/badge/@Gully__Labs-0B0A16?style=for-the-badge&labelColor=06050D&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://t.me/GullyLabsNews"><img src="https://img.shields.io/badge/Telegram-0B0A16?style=for-the-badge&labelColor=06050D&logo=telegram&logoColor=26A5E4" alt="Telegram"></a>
+  <a href="https://github.com/gully-labs"><img src="https://img.shields.io/badge/GitHub-0B0A16?style=for-the-badge&labelColor=06050D&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<p align="center"><b>Gully Chains · Stylus: Rust smart contracts on Arbitrum. For the Gully L3 testnet (planned).</b></p>
+<p align="center"><b>Chain Kit: Stylus SDK: Stylus SDK for Rust smart contracts on Gully Chain.</b></p>
 
-<p align="center"><sub>Maintained by <a href="https://gullylabs.xyz">Gully Labs</a> as part of Gully Chains. Fork of <a href="https://github.com/OffchainLabs/stylus-sdk-rs">OffchainLabs/stylus-sdk-rs</a>, used under its Apache-2.0 OR MIT licence. Not affiliated with or endorsed by Offchain Labs or the Arbitrum Foundation; Arbitrum is their trademark. For the Gully L3 testnet (planned); nothing is running yet.</sub></p>
+<p align="center"><sub>Maintained by <a href="https://gullylabs.xyz">Gully Labs</a>. Fork of <a href="https://github.com/OffchainLabs/stylus-sdk-rs">OffchainLabs/stylus-sdk-rs</a>, which has no LICENSE file; kept to submit the Gully adapters upstream. Not affiliated with or endorsed by Offchain Labs.</sub></p>
 
 ---
 <!-- gully-header:end -->
